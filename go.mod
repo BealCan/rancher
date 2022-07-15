@@ -48,7 +48,7 @@ require (
 	github.com/DataDog/zstd v1.4.5 // indirect
 	github.com/Masterminds/semver/v3 v3.1.0
 	github.com/Masterminds/sprig/v3 v3.1.0
-	github.com/aws/aws-sdk-go v1.35.24
+	github.com/aws/aws-sdk-go v1.43.28
 	github.com/beevik/etree v1.1.0 // indirect
 	github.com/bep/debounce v1.2.0
 	github.com/blang/semver v3.5.1+incompatible
@@ -80,9 +80,9 @@ require (
 	github.com/pborman/uuid v1.2.0
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus-operator/prometheus-operator/pkg/apis/monitoring v0.44.1
-	github.com/prometheus/client_golang v1.8.0
+	github.com/prometheus/client_golang v1.11.0
 	github.com/prometheus/client_model v0.2.0
-	github.com/prometheus/common v0.14.0
+	github.com/prometheus/common v0.26.0
 	github.com/rancher/apiserver v0.0.0-20201023000256-1a0a904f9197
 	github.com/rancher/dynamiclistener v0.2.1-0.20200910203214-85f32491cb09
 	github.com/rancher/eks-operator v1.0.4
@@ -103,7 +103,7 @@ require (
 	github.com/russellhaering/goxmldsig v0.0.0-20180430223755-7acd5e4a6ef7 // indirect
 	github.com/satori/go.uuid v1.2.0
 	github.com/segmentio/kafka-go v0.0.0-20190411192201-218fd49cff39
-	github.com/sirupsen/logrus v1.6.0
+	github.com/sirupsen/logrus v1.8.1
 	github.com/stretchr/testify v1.6.1
 	github.com/tomnomnom/linkheader v0.0.0-20180905144013-02ca5825eb80
 	github.com/urfave/cli v1.22.2
@@ -114,20 +114,20 @@ require (
 	github.com/xdg/scram v0.0.0-20180814205039-7eeb5667e42c // indirect
 	github.com/xdg/stringprep v1.0.0 // indirect
 	golang.org/x/crypto v0.0.0-20201002170205-7f63de1d35b0
-	golang.org/x/net v0.0.0-20201110031124-69a78807bb2b
+	golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
-	golang.org/x/sync v0.0.0-20200625203802-6e8e738ad208
+	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
 	google.golang.org/api v0.20.0
 	google.golang.org/grpc v1.27.1
 	gopkg.in/asn1-ber.v1 v1.0.0-20181015200546-f715ec2f112d // indirect
 	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15
 	gopkg.in/ldap.v2 v2.5.1
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0
-	gopkg.in/yaml.v2 v2.3.0
+	gopkg.in/yaml.v2 v2.4.0
 	helm.sh/helm/v3 v3.3.0
-	k8s.io/api v0.20.0
+	k8s.io/api v0.22.1
 	k8s.io/apiextensions-apiserver v0.20.0
-	k8s.io/apimachinery v0.20.0
+	k8s.io/apimachinery v0.22.1
 	k8s.io/apiserver v0.20.0
 	k8s.io/cli-runtime v0.20.0
 	k8s.io/client-go v12.0.0+incompatible
@@ -138,6 +138,6 @@ require (
 	k8s.io/kubernetes v1.20.0
 	k8s.io/utils v0.0.0-20201110183641-67b214c5f920
 	rsc.io/letsencrypt v0.0.3 // indirect
-	sigs.k8s.io/aws-iam-authenticator v0.5.1
+	sigs.k8s.io/aws-iam-authenticator v0.5.9
 	sigs.k8s.io/yaml v1.2.0
 )
