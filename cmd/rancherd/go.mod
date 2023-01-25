@@ -66,7 +66,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/rancher/k3s v1.19.2-0.20201028222356-523ccaf3f22a
 	github.com/rancher/rke2 v1.18.13-0.20201207193710-1d6e826b9fdf // v1.18.12+rke2r2 ... If you update this, also update rancher/package/Dockerfile.runtime
-	github.com/rancher/wrangler v0.6.1
+	github.com/rancher/wrangler v0.7.5
 	github.com/sirupsen/logrus v1.6.0
 	github.com/urfave/cli v1.22.2
 	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
