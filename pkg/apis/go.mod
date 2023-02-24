@@ -14,7 +14,7 @@ require (
 	github.com/rancher/rke v1.2.0-rc9.0.20201204145714-816d4cd130a9
 	github.com/rancher/wrangler v0.7.3-0.20201020003736-e86bc912dfac
 	github.com/sirupsen/logrus v1.6.0
-	golang.org/x/net v0.0.0-20200625001655-4c5254603344 // indirect
+	golang.org/x/net v0.7.0 // indirect
 	k8s.io/api v0.18.8
 	k8s.io/apimachinery v0.18.8
 )
